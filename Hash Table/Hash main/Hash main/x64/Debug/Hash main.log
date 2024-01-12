@@ -1,0 +1,53 @@
+﻿  Hash main.cpp
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\Hash main.cpp(30,85): error C2039: 'name': is not a member of 'Student'
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\Student.h(7,7): message : see declaration of 'Student'
+  HashTable.cpp
+  LinkedList.cpp
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(7,36): error C2761: 'void LinkedList::insertItem(Item *)': redeclaration of member is not allowed
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(7,29): error C2065: 'Student': undeclared identifier
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(7,38): error C2065: 'newStudent': undeclared identifier
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(7,50): error C2143: syntax error: missing ';' before '{'
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(8,13): error C2143: syntax error: missing ';' before '*'
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(8,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(8,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(8,29): error C2061: syntax error: identifier 'HashNode'
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(10,5): error C2059: syntax error: 'if'
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(10,16): error C2143: syntax error: missing ';' before '{'
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(10,16): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(13,5): error C2059: syntax error: 'else'
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(13,10): error C2143: syntax error: missing ';' before '{'
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(13,10): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(20,1): error C2059: syntax error: '}'
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(20,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(22,44): error C2143: syntax error: missing ';' before '{'
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(22,44): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(47,8): error C2143: syntax error: missing ';' before '*'
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(47,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(47,22): error C2039: 'getStudent': is not a member of 'LinkedList'
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.h(12,7): message : see declaration of 'LinkedList'
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(47,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(47,48): error C2059: syntax error: '{'
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(47,48): error C2143: syntax error: missing ';' before '{'
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(47,48): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(58,15): error C2065: 'current': undeclared identifier
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(60,12): error C2065: 'current': undeclared identifier
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(61,40): error C2065: 'current': undeclared identifier
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(61,85): error C2065: 'current': undeclared identifier
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(62,13): error C2065: 'current': undeclared identifier
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(63,9): error C2065: 'current': undeclared identifier
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(63,19): error C2065: 'current': undeclared identifier
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(70,15): error C2065: 'current': undeclared identifier
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(71,12): error C2065: 'current': undeclared identifier
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(73,9): error C2065: 'current': undeclared identifier
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(73,19): error C2065: 'current': undeclared identifier
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(79,15): error C2065: 'current': undeclared identifier
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(80,12): error C2065: 'current': undeclared identifier
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(81,19): error C2065: 'next': undeclared identifier
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(81,26): error C2065: 'current': undeclared identifier
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(82,16): error C2065: 'current': undeclared identifier
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(83,16): error C2065: 'current': undeclared identifier
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(83,9): error C2541: 'delete': cannot delete objects that are not pointers
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(84,9): error C2065: 'current': undeclared identifier
+C:\Users\jgarc\OneDrive\Desktop\Programming 3\Hash Table\Hash main\Hash main\LinkedList.cpp(84,19): error C2065: 'next': undeclared identifier
+  Student.cpp
+  Generating Code...
